@@ -1,0 +1,31 @@
+student powerlevel
+Skill
+0
+75
+Anxiety
+0
+99
+Friends
+0
+30
+Sleep
+0
+15
+Money
+0
+5
+Confidence
+0
+50
+Happiness
+0
+60
+Caffeine Consumption
+0
+99
+Ramen
+0
+85
+Procrastination
+0
+95
