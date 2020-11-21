@@ -1,40 +1,31 @@
-college diet
-label water
-xvalue 0
-yvalue 45
-
+College Diet
+water
+0
+45
 bread
 0
 100
-
 ramen
 0
 100
-
 tea
 0
 88
-
 energy drinks
 0
 200
-
 hot sauce
 0
 10
-
 coffee
 0
 150
-
 veggies
 0
 5
-
 fast food
 0
 80
-
 candy
 0
 20

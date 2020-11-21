@@ -96,7 +96,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "UNCHARTED: A Thief\'s End";
             this.ResumeLayout(false);
 
         }
